@@ -11,6 +11,10 @@ We build Azure-native B2B software that deploys inside **your own Azure subscrip
 | [**Vigil**](https://ageebgeesolutions.com/vigil/) | Azure Key Vault expiry monitoring: alerts before secrets, certificates, and keys expire. Runs entirely in your subscription. Free tier available. |
 | [**Dad Is Dead**](https://dad-is-dead.com/) | Digital legacy planning for individuals: custodian management, proof-of-life check-ins, and secure document storage, so the right people can get to what matters when you can't tell them. |
 
+## Open source
+
+- [**claude-agent-sdlc-toolkit**](https://github.com/ageebgee-solutions/claude-agent-sdlc-toolkit): a small set of Claude Code agent roles (orchestrator, engineering manager, .NET and frontend engineers, QA, security reviewer, architect) with hard release gates. MIT licensed, and we add to it as we learn.
+
 ## Docs and writing
 
 - [InsightForge install guide](https://ageebgeesolutions.com/docs/insightforge-customer-install)
